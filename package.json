@@ -1,0 +1,49 @@
+{
+  "name": "ng6-file-man",
+  "version": "1.0.6",
+  "description": "Angular 6 File Manager component",
+  "keywords": [
+    "Angular 6",
+    "Angular 2",
+    "ng2",
+    "file-manager",
+    "file manager",
+    "filemanager",
+    "uploader",
+    "i18n",
+    "SASS",
+    "themeable",
+    "customizable"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnnotationSro/ng6-file-man.git"
+  },
+  "license": "MIT",
+  "author": "Martin Filo <martinxfilo@gmail.com> (https://github.com/Chiff/)",
+  "peerDependencies": {
+    "@angular/common": "^6.0.3",
+    "@angular/core": "^6.0.3",
+    "@angular/http": "^6.0.3",
+    "rxjs": "^6.0.0"
+  },
+  "dependencies": {
+    "@ngrx/store": "^6.1.0",
+    "@ngx-translate/core": "^10.0.2",
+    "@ngx-translate/http-loader": "^3.0.1",
+    "fine-uploader": "5.16.2",
+    "ngx-smart-modal": "^7.0.3",
+    "@biesbjerg/ngx-translate-extract": "^2.3.4",
+    "tslib": "^1.9.0"
+  },
+  "main": "bundles/ng6-file-man.umd.js",
+  "module": "fesm5/ng6-file-man.js",
+  "es2015": "fesm2015/ng6-file-man.js",
+  "esm5": "esm5/ng6-file-man.js",
+  "esm2015": "esm2015/ng6-file-man.js",
+  "fesm5": "fesm5/ng6-file-man.js",
+  "fesm2015": "fesm2015/ng6-file-man.js",
+  "typings": "ng6-file-man.d.ts",
+  "metadata": "ng6-file-man.metadata.json",
+  "sideEffects": false
+}

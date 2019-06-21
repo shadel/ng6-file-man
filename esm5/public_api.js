@@ -1,0 +1,14 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of file-manager
+ */
+export { FileManagerComponent } from './file-manager/file-manager.component';
+export { createTranslateLoader, getReducers, FileManagerModule } from './file-manager/file-manager.module';
+export { TreeModel } from './file-manager/models/tree.model';
+export { } from './file-manager/interfaces/config.interface';
+export { } from './file-manager/interfaces/node.interface';
+export { NodeService } from './file-manager/services/node.service';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25nNi1maWxlLW1hbi8iLCJzb3VyY2VzIjpbInB1YmxpY19hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7OztBQUlBLHFDQUFjLHVDQUF1QyxDQUFDO0FBQ3RELHNFQUFjLG9DQUFvQyxDQUFDO0FBQ25ELDBCQUFjLGtDQUFrQyxDQUFDO0FBQ2pELGdCQUFjLDRDQUE0QyxDQUFDO0FBQzNELGdCQUFjLDBDQUEwQyxDQUFDO0FBQ3pELDRCQUFjLHNDQUFzQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcclxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIGZpbGUtbWFuYWdlclxyXG4gKi9cclxuXHJcbmV4cG9ydCAqIGZyb20gJy4vZmlsZS1tYW5hZ2VyL2ZpbGUtbWFuYWdlci5jb21wb25lbnQnO1xyXG5leHBvcnQgKiBmcm9tICcuL2ZpbGUtbWFuYWdlci9maWxlLW1hbmFnZXIubW9kdWxlJztcclxuZXhwb3J0ICogZnJvbSAnLi9maWxlLW1hbmFnZXIvbW9kZWxzL3RyZWUubW9kZWwnO1xyXG5leHBvcnQgKiBmcm9tICcuL2ZpbGUtbWFuYWdlci9pbnRlcmZhY2VzL2NvbmZpZy5pbnRlcmZhY2UnO1xyXG5leHBvcnQgKiBmcm9tICcuL2ZpbGUtbWFuYWdlci9pbnRlcmZhY2VzL25vZGUuaW50ZXJmYWNlJztcclxuZXhwb3J0ICogZnJvbSAnLi9maWxlLW1hbmFnZXIvc2VydmljZXMvbm9kZS5zZXJ2aWNlJztcclxuIl19
