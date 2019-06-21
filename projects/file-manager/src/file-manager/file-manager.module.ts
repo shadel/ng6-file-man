@@ -25,7 +25,7 @@ export function createTranslateLoader(http: HttpClient) {
   return new TranslateHttpLoader(http, '/assets/i18n/', '.json');
 }
 
-export const FEATURE_REDUCER_TOKEN = new InjectionToken<
+const FEATURE_REDUCER_TOKEN = new InjectionToken<
   ActionReducerMap<AppStore>
 >('AppStore Reducers');
 export function getReducers(): ActionReducerMap<AppStore> {

@@ -21,6 +21,7 @@
     "@angular/platform-browser": "^6.0.3",
     "@angular/platform-browser-dynamic": "^6.0.3",
     "@angular/router": "^6.0.3",
+    "@biesbjerg/ngx-translate-extract": "^2.3.4",
     "@fortawesome/fontawesome-free": "^5.1.1",
     "@ngrx/store": "^6.1.0",
     "@ngx-translate/core": "^10.0.2",
@@ -32,7 +33,7 @@
     "gulp-rename": "^1.4.0",
     "ngx-file-drop": "^4.0.6",
     "ngx-smart-modal": "^7.0.3",
-    "rxjs": "^6.0.0",
+    "rxjs": "6.0.0",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
